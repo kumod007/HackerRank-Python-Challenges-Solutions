@@ -1,2 +1,19 @@
-# HackerRank-Python-Challenges-Solved
-This repository is a comprehensive collection of solved questions from HackerRank's Python coding challenges.  You can use this to enhance your problem-solving skills, gain confidence in tackling coding challenges, and level up your proficiency in Python programming.
+
+# HackerRank Python Challenges Solutions
+![ViewCount](https://views.whatilearened.today/views/github/kumod007/HackerRank-Python-Challenges-Solutions.svg?cache=remove)
+![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/HackerRank-Python-Challenges-Solutions?style=flat)
+
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/Kumod_Sharma">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+    </a>
+    <br>
+    <br>
+</p>
+
+## Description
+This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. 
+Each solution includes a brief explanation of the problem and my approach to solving it executed on MySQL environment.
+These solutions can be used as a reference for other learners or as a way to practice and improve SQL skills.
+
