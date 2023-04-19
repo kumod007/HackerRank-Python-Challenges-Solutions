@@ -1,7 +1,7 @@
 
 # HackerRank Python Challenges Solutions
 ![ViewCount](https://views.whatilearened.today/views/github/kumod007/HackerRank-Python-Challenges-Solutions.svg?cache=remove)
-![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/HackerRank-Python-Challenges-Solutions?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/kumod007/HackerRank-Python-Challenges-Solutions.svg?style=flat)
 
 <p align="center">  
 	<br>
@@ -13,7 +13,13 @@
 </p>
 
 ## Description
-This repository contains my solutions to various SQL challenges on HackerRank, organized by categories and difficulty levels. 
-Each solution includes a brief explanation of the problem and my approach to solving it executed on MySQL environment.
-These solutions can be used as a reference for other learners or as a way to practice and improve SQL skills.
+
+Welcome to my repository, here you'll find solutions to Python challenges from HackerRank!<br>
+As a coding enthusiast, I've taken on the exciting challenges offered by HackerRank and have successfully solved them using Python.<br>
+This repository is a treasure of well-organized and thoroughly-tested Python code that provides solutions to various HackerRank problems.<br>
+Each solution is carefully crafted to be efficient, elegant, and easy to understand, making it a valuable resource for anyone looking to improve their Python coding skills or prepare for coding interviews. So whether you're a beginner eager to learn Python or an experienced developer looking to enhance your problem-solving abilities, this repository is your go-to destination for mastering HackerRank challenges with Python!<br>
+
+
+
+
 
