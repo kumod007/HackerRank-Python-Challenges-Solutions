@@ -29,7 +29,7 @@ This repository contains my solutions to various Python challenges from HackerRa
 
 <h2>Best Coding Practices</h2>
 <p>The solutions in this repository follow best coding practices, including proper indentation, meaningful variable and function names, comments for complex logic, and adherence to PEP 8 guidelines for Python coding style.</p>
-    
+
 <h2>Documentation and Test Cases</h2>
 <p>Each solution comes with clear documentation that explains how to use it. Additionally, test cases are included to validate the correctness of the solutions and help users gain confidence in their effectiveness.</p>
 
@@ -46,5 +46,5 @@ This repository contains my solutions to various Python challenges from HackerRa
 <p>This repository is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use and modify the solutions in accordance with the license terms.</p>
 
 <h2>Contact</h2>
-<p>If you have any questions or suggestions about this repository, please feel free to contact me via email , LinkeDin through GitHub.</p>
+<p>If you have any questions or suggestions about this repository, please feel free to contact me via email, LinkeDin through GitHub.</p>
 
